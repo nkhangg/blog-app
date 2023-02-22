@@ -1,0 +1,9 @@
+export { default as NavBar } from './NavBar';
+export { default as Home } from './Home';
+export { default as Header } from './Header';
+export { default as Play } from './Play';
+export { default as NewPost } from './NewPost';
+export { default as Update } from './Update';
+export { default as DetailPost } from './DetailPost';
+export { default as Sign } from './Sign';
+export { default as Profile } from './Profile';
